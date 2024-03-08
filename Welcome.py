@@ -9,7 +9,7 @@ st.title("Welcome.")
 
 
 # sidebar
-st.write(f':blue[{'Explore Projects, Internship using Sidebar'}]')
+st.write('Explore Projects, Internship using Sidebar')
 sidebar_image_path = "profile1.png"
 st.sidebar.image(sidebar_image_path,caption='Dhruv Rajput', width=100)
 st.sidebar.success("Thank You for Visiting us")
