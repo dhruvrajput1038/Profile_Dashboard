@@ -2,11 +2,11 @@ import streamlit as st
 
 st.title("Certifications")
 
-# Cert. 1
-st.write('1. Python Basics for Data Science')
-st.write('Certificate Link : -------------')
-st.caption(' Master Python fundamentals for data analysis and  manipulation, laying the foundation for your data science journey.')
-st.write('\n')
+# # Cert. 1
+# st.write('1. Python Basics for Data Science')
+# st.write('Certificate Link : -------------')
+# st.caption(' Master Python fundamentals for data analysis and  manipulation, laying the foundation for your data science journey.')
+# st.write('\n')
 
 # Cert. 2
 st.write('2. Crash Course on Python')
@@ -23,6 +23,7 @@ st.write('\n')
 # Cert. 4
 st.write('3. WIPRO FUTURE SKILLS')
 st.write('Certificate Link : https://drive.google.com/file/d/1X0y35pKSGavdqRNwkcC8UPX_atnvkW3Q/view?usp=sharing')
+st.write('Certificate Link : https://drive.google.com/file/d/1ciLX4xuBgLF9aeHdtb4s7Qg2DRH2nwiN/view?usp=sharing')
 #st.caption('Successfully trained and deployed machine learning models to solve real world problems. ')
 st.write('\n')
 
