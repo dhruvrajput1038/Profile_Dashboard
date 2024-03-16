@@ -37,11 +37,11 @@ pdf_path = "5_resume.pdf"
 # if st.button("Download PDF"):
 #     with open(pdf_path, "rb") as f:
 #         pdf_bytes = f.read()
-#     st.download_button(label="Download PDF", data=pdf_bytes, file_name="5_resume.pdf", mime="application/pdf")
+#     st.download_button(label="Download PDF", data=pdf_bytes, file_name="6th_Resume.pdf", mime="application/pdf")
 
 with open(pdf_path, "rb") as f:
     pdf_bytes = f.read()
-st.download_button(label="Download PDF", data=pdf_bytes, file_name="5_resume.pdf", mime="application/pdf")
+st.download_button(label="Download PDF", data=pdf_bytes, file_name="6th_Resume.pdf", mime="application/pdf")
 
 
 # * optional kwarg unsafe_allow_html = True
